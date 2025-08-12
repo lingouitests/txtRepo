@@ -1,0 +1,6 @@
+# Strings for use in GUI
+#################################################
+PushIfCommits,Push if commits
+CloseButtonText,Close
+ApplyButtonText,Apply
+CancelButtonText,Cancel
